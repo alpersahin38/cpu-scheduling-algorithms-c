@@ -47,4 +47,13 @@ Output:
 
 ![image](https://user-images.githubusercontent.com/93208734/207587744-0c8b278f-d5e4-4caa-8016-ad63f8cb604a.png)
 
+### Kod Nasıl Çalıştırılır?
+Kod linux işletim sistemine göre yazılmıştır. Bunun için sanal makine ya da linux işletim sistemini kullanabilirsiniz.WSL (Windows Subsystem Linux) önerimdir.
+```
+gcc scheduling.c -o sample.out
 
+./sample.out
+```
+Parametrelerini kullanarak kodu çalıştırabilirsiniz.
+
+Kod'da hesaplama konusunda bazı hatalar bulunmaktadır. En kısa sürede düzenlenecektir.
