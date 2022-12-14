@@ -7,6 +7,7 @@ FIFO (First In First Out) yada diğer bilinen adıyla FCFS (First Come First Ser
 prosesler sıranın en başından seçilerek işlemciye aktarılır.
 
 Output:
+
 ![image](https://user-images.githubusercontent.com/93208734/207586929-6db57f88-041d-4f61-ad2d-a52e29fb6be1.png)
 
 
@@ -17,6 +18,7 @@ o anda elde bulunan işler biritilmek için gereken süreye göre sıralanırlar
 Basitçe eldeki işlerin en kısasını yaparak performans artışı sağlamaya çalışır. Ancak algoritmanın bir dez avantajı kıtlık (starvation) doğurma riskidir.
 
 Output:
+
 ![image](https://user-images.githubusercontent.com/93208734/207587328-ea32251c-afd2-485d-bd3a-5ffcf80618bf.png)
 
 ![image](https://user-images.githubusercontent.com/93208734/207587351-bbbc3fb4-7c0d-46e0-8b2e-d89f7e3ef2a3.png)
@@ -28,6 +30,7 @@ Bu algoritmaya göre sırası gelen işlem, işlemcide işi bitmese bile belirli
 Bu sayed işletim sisteminde kıtlık (Starvation) olma ihtimali kalmaz. Çünkü hiç bir zaman bir işlemin CPU’yu alıp diğer işlemlere sıra gelmesini engellemesi mümkün olmaz.
 
 Output:
+
 ![image](https://user-images.githubusercontent.com/93208734/207587627-939bbdbd-4da4-47db-9828-8601c3f395a6.png)
 
 
@@ -41,6 +44,7 @@ Aging yöntemi(yaşlandırma) önüne aldığı her işlemde bu önceliği az ol
 işlem de sistem kaynaklarından yararlanabilir.
 
 Output:
+
 ![image](https://user-images.githubusercontent.com/93208734/207587744-0c8b278f-d5e4-4caa-8016-ad63f8cb604a.png)
 
 
