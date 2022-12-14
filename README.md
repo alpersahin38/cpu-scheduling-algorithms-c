@@ -1,6 +1,4 @@
-                                              # CPU SCHEDULİNG ALGORİTMALARINA İLİŞKİN PERFORMANS METRİKLERİNİN DİNAMİK OLARAK 
-                                                                           # HESAPLANMASI
-                                                                          
+# CPU SCHEDULİNG ALGORİTMALARINA İLİŞKİN PERFORMANS METRİKLERİNİN DİNAMİK OLARAK HESAPLANMASI                                                                          
                                                                           
 ## CPU Scheduling (İşlemci Zamanlaması) Algoritmaları
 
@@ -41,6 +39,7 @@ Bu algoritmanın yanında getirdiği bir problem vardır. Bu da Starvation probl
 işlemlerin çokça gelmesi durumunda az öncelikli işlemimiz asla CPU’yu kullanamaz. Bu sorunu gidermek için bir çözüm de vardır.
 Aging yöntemi(yaşlandırma) önüne aldığı her işlemde bu önceliği az olan işlemimizin önceliğini yavaş yavaş artırırız. Böylece bu önceliksiz 
 işlem de sistem kaynaklarından yararlanabilir.
+
 Output:
 ![image](https://user-images.githubusercontent.com/93208734/207587744-0c8b278f-d5e4-4caa-8016-ad63f8cb604a.png)
 
